@@ -1,6 +1,6 @@
 # WebCamApp
-Webcam App using React Js and CSS and react-webcam
-A Camera App 
-To run this use npm install
+1)Webcam App using React Js and CSS and react-webcam
+2)A Camera App 
+3)To run this use npm install
 
-npm start localhost://3000
+4)npm start localhost://3000
